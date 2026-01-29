@@ -1,24 +1,64 @@
 {
-    "name": "A.Sprudzans",
-    "short_name": "A.Sprudzans",
-    "scope": "/",
-    "start_url": "/",
-    "icons": [
-        {
-            "src": "/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "maskable"
-        },
-        {
-            "src": "/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "maskable"
-        }
-    ],
-    "theme_color": "#000000",
-    "background_color": "#000000",
-    "display": "standalone",
-    "splash_pages": "/splash.png"
+  "name": "Aleksandrs Sprudzans",
+  "short_name": "Aleksandrs Sprudzans",
+  "description": "Follow along to stay up to date with my portfolio and personal projects.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#c1d911",
+  "icons": [
+    {
+      "src": "/maskable-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/maskable-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/wide_home.webp",
+      "sizes": "1280x720",
+      "type": "image/webp",
+      "form_factor": "wide",
+      "label": "Desktop home screen showing main navigation and featured content"
+    },
+    {
+      "src": "screenshots/wide_introduction.webp",
+      "sizes": "1280x720",
+      "type": "image/webp",
+      "form_factor": "wide",
+      "label": "Desktop screen showing personal introduction"
+    },
+    {
+      "src": "screenshots/narrow_home.webp",
+      "sizes": "750x1624",
+      "type": "image/webp",
+      "form_factor": "narrow",
+      "label": "Mobile home screen showing main navigation and featured content"
+    },
+    {
+      "src": "screenshots/narrow_introduction.webp",
+      "sizes": "750x1624",
+      "type": "image/webp",
+      "form_factor": "narrow",
+      "label": "Mobile screen showing personal introduction"
+    }
+  ]
 }
