@@ -1,4 +1,4 @@
-!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{};e.SENTRY_RELEASE={id:"7c18cf002d6235a40a5f8d831bb82a6853053a9a"};var t=(new e.Error).stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="1556189e-476b-4cd1-9b10-a33f276169a4",e._sentryDebugIdIdentifier="sentry-dbid-1556189e-476b-4cd1-9b10-a33f276169a4")}catch(e){}}(),(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["heavy-libs"],{e0ec:function(e,t,n){(function(e){
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{};e.SENTRY_RELEASE={id:"300fa14fc4efdd6792cbf2993e3aa709aba6126f"};var t=(new e.Error).stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="1556189e-476b-4cd1-9b10-a33f276169a4",e._sentryDebugIdIdentifier="sentry-dbid-1556189e-476b-4cd1-9b10-a33f276169a4")}catch(e){}}(),(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["heavy-libs"],{e0ec:function(e,t,n){(function(e){
 /*!
  * vue-youtube v1.4.0
  * (c) 2019 Antério Vieira
