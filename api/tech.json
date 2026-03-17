@@ -1,0 +1,136 @@
+[
+  {
+    "name": "HTML5",
+    "icon": "html",
+    "color": "#E34F26",
+    "description": "Markup language for structuring and presenting content on the web",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"
+  },
+  {
+    "name": "CSS3",
+    "icon": "css",
+    "color": "#1572B6",
+    "description": "Style sheet language used for describing the presentation of a document written in HTML",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+
+  },
+  {
+    "name": "Sass",
+    "icon": "sass",
+    "color": "#CC6699",
+    "description": "CSS preprocessor that adds power and elegance to the basic language",
+    "link": "https://sass-lang.com/"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "javascript",
+    "color": "#F7DF1E",
+    "description": "Programming language that conforms to the ECMAScript specification, used for web development",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  },
+  {
+    "name": "TypeScript",
+    "icon": "typescript",
+    "color": "#3178C6",
+    "description": "Superset of JavaScript that adds static typing and other features to the language",
+    "link": "https://www.typescriptlang.org/"
+  },
+  {
+    "name": "Angular",
+    "icon": "angular",
+    "color": "#DD0031",
+    "description": "Platform for building mobile and desktop web applications using TypeScript and other technologies",
+    "link": "https://angular.io/"
+  },
+  {
+    "name": "RxJS",
+    "icon": "rxjs",
+    "color": "#B7178C",
+    "description": "Library for reactive programming using Observables, to make it easier to compose asynchronous or callback-based code",
+    "link": "https://rxjs.dev/"
+  },
+  {
+    "name": "Vue",
+    "icon": "vue",
+    "color": "#42B883",
+    "description": "Progressive JavaScript framework for building user interfaces, designed to be incrementally adoptable",
+    "link": "https://vuejs.org/"
+  },
+  {
+    "name": "React",
+    "icon": "react",
+    "color": "#61DAFB",
+    "description": "JavaScript library for building user interfaces, maintained by Facebook and a community of developers",
+    "link": "https://reactjs.org/"
+  },
+  {
+    "name": "Redux",
+    "icon": "redux",
+    "color": "#764ABC",
+    "description": "Predictable state container for JavaScript apps, often used with React for managing application state",
+    "link": "https://redux.js.org/"
+  },
+  {
+    "name": "jQuery",
+    "icon": "jquery",
+    "color": "#0769AD",
+    "description": "Fast, small, and feature-rich JavaScript library that simplifies HTML document traversal and manipulation, event handling, and animation",
+    "link": "https://jquery.com/"
+  },
+  {
+    "name": "Node.js",
+    "icon": "node-js",
+    "color": "#339933",
+    "description": "JavaScript runtime built on Chrome's V8 JavaScript engine, used for server-side development",
+    "link": "https://nodejs.org/"
+  },
+  {
+    "name": "GraphQL",
+    "icon": "graphql",
+    "color": "#E10098",
+    "description": "Query language for your API, and a server-side runtime for executing queries by using a type system you define for your data",
+    "link": "https://graphql.org/"
+  },
+  {
+    "name": "Redis",
+    "icon": "redis",
+    "color": "#DC382D",
+    "description": "In-memory data structure store, used as a database, cache, and message broker",
+    "link": "https://redis.io/"
+  },
+  {
+    "name": "Jest",
+    "icon": "jest",
+    "color": "#C21325",
+    "description": "JavaScript testing framework designed to ensure correctness of any JavaScript codebase",
+    "link": "https://jestjs.io/"
+  },
+  {
+    "name": "Playwright",
+    "icon": "playwright",
+    "color": "#45ba4b",
+    "description": "End-to-end testing framework for web applications, supporting multiple browsers and platforms",
+    "link": "https://playwright.dev/"
+  },
+  {
+    "name": "Git",
+    "icon": "git",
+    "color": "#F05032",
+    "description": "Distributed version control system for tracking changes in source code during software development",
+    "link": "https://git-scm.com/"
+  },
+  {
+    "name": "Docker",
+    "icon": "docker",
+    "color": "#2496ED",
+    "description": "Platform for developing, shipping, and running applications in containers",
+    "link": "https://www.docker.com/"
+  },
+  {
+    "name": "Nginx",
+    "icon": "nginx",
+    "color": "#009639",
+    "description": "High-performance HTTP server and reverse proxy, as well as an IMAP/POP3 proxy server",
+    "link": "https://www.nginx.com/"
+  }
+]

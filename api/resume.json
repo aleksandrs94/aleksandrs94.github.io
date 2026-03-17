@@ -1,0 +1,388 @@
+[
+  {
+    "type": "job",
+    "data": {
+      "institution": {
+        "name": "Swisscom",
+        "icon": "swisscom",
+        "description": "Major telecommunication provider in Switzerland",
+        "link": "https://www.swisscom.ch/en/residential.html"
+      },
+      "role": {
+        "title": "Software Engineer",
+        "description": "Developed modular components in a micro frontend architecture to enable parallel team development. Owned end-to-end feature delivery from design through deployment and monitoring. Collaborated in a Scaled Agile Framework (SAFe) to drive on-time delivery and process improvements. Core member of the Frontend Community of Practice (CoP) driving coding quality and standards across the department.",
+        "startDate": "2024-06-30T16:00:00.000Z",
+        "endDate": "2025-12-04T16:00:00.000Z",
+        "skills": [
+          "HTML",
+          "Sass",
+          "TypeScript",
+          "Angular",
+          "RxJS",
+          "Redux",
+          "Jest",
+          "Playwright",
+          "Micro Frontend",
+          "CI/CD",
+          "Jenkins",
+          "SonarQube",
+          "Splunk",
+          "Git",
+          "GitHub Copilot",
+          "Teamwork",
+          "Agile (SAFe)",
+          "Jira"
+        ]
+      },
+      "project": {
+        "name": "My Swisscom Business",
+        "icon": "my-swisscom-business",
+        "description": "Contributed to building B2B portal for enterprise customers",
+        "link": "https://www.swisscom.ch/en/business/myswisscombusiness.html"
+      }
+    }
+  },
+  {
+    "type": "job",
+    "data": {
+      "institution": {
+        "name": "Tet",
+        "icon": "tet",
+        "description": "Telecommunication, entertainment, internet and electricity service provider",
+        "link": "https://www.tet.lv"
+      },
+      "role": {
+        "title": "Web Application Engineer",
+        "description": "Led end-to-end feature development across Smart TV and web platforms. Built scalable, reusable components and libraries. Designed a GraphQL Backend for Frontend (BFF) layer to efficiently orchestrate data and enhance application performance across different devices.",
+        "startDate": "2020-03-31T16:00:00.000Z",
+        "endDate": "2024-06-29T16:00:00.000Z",
+        "skills": [
+          "HTML",
+          "Sass",
+          "TypeScript",
+          "Angular",
+          "RxJS",
+          "Redux",
+          "Jasmine",
+          "React Native",
+          "PWA",
+          "Node.js",
+          "GraphQL",
+          "Redis",
+          "Postman",
+          "CI/CD",
+          "SonarQube",
+          "Sentry",
+          "Grafana",
+          "Git",
+          "Problem Solving",
+          "Teamwork",
+          "Agile (Scrum)",
+          "Google Analytics",
+          "Jira"
+        ]
+      },
+      "project": {
+        "name": "Tet TV+",
+        "icon": "tet-tv-plus",
+        "description": "Built leading OTT streaming service in Latvia",
+        "link": "https://www.tet.plus/"
+      }
+    }
+  },
+  {
+    "type": "job",
+    "data": {
+      "institution": {
+        "name": "Latvian Railway",
+        "icon": "latvian-railway",
+        "description": "Information and Technology Centre | Department of Development",
+        "link": "https://ldz.lv/en"
+      },
+      "role": {
+        "title": "Full Stack Developer",
+        "description": "Designed and developed several web-based information systems to seamlessly execute CRUD operations on a database, thus enhancing data accessibility and improving user efficiency. Introduced DevOps practices and automated CI/CD pipelines, reducing deployment time and increasing production stability.",
+        "startDate": "2018-08-31T16:00:00.000Z",
+        "endDate": "2020-03-30T16:00:00.000Z",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Vue",
+          "Vuex",
+          "Jest",
+          "Node.js",
+          "Express",
+          "REST API",
+          "SQL",
+          "Postman",
+          "Drupal",
+          "Git",
+          "CI/CD",
+          "Docker",
+          "Nginx",
+          "Linux",
+          "Jira",
+          "Problem Solving"
+        ]
+      }
+    }
+  },
+  {
+    "type": "job",
+    "data": {
+      "institution": {
+        "name": "Vidzeme University of Applied Sciences",
+        "icon": "vidzeme-university-of-applied-sciences",
+        "description": "Knowledge and Technology Centre",
+        "link": "https://va.lv/en"
+      },
+      "role": {
+        "title": "Frontend Developer",
+        "isInternship": true,
+        "description": "Integrate third party API's like Google Maps, Facebook, Instagram, Omniva, DPD and others to improve customer satisfaction. Delivered fully responsive design for consistent shopping experience across all devices.",
+        "startDate": "2016-09-30T16:00:00.000Z",
+        "endDate": "2017-01-30T16:00:00.000Z",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "jQuery"
+        ]
+      },
+      "project": {
+        "name": "Kameja",
+        "icon": "kameja",
+        "description": "Maintain and improve e-commerce website",
+        "link": "http://kameja.lv"
+      }
+    }
+  },
+  {
+    "type": "job",
+    "data": {
+      "institution": {
+        "name": "Wunder",
+        "icon": "wunder",
+        "description": "International Web Service Provider",
+        "link": "https://wunder.io"
+      },
+      "role": {
+        "title": "Frontend Developer",
+        "isInternship": true,
+        "description": "Migrated static website to a Content Management System (CMS) for easier content management by non-technical users. Delivered fully responsive design that significantly improved mobile engagement and user satisfaction.",
+        "startDate": "2015-05-31T16:00:00.000Z",
+        "endDate": "2015-07-30T16:00:00.000Z",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Drupal",
+          "Git",
+          "Agile (Scrum)"
+        ]
+      },
+      "project": {
+        "name": "Aquavilla",
+        "icon": "aquavilla",
+        "description": "Enhance business card website for Swedish company",
+        "link": "http://aquavilla.se"
+      }
+    }
+  },
+  {
+    "type": "education",
+    "data": {
+      "institution": {
+        "name": "Vidzeme University of Applied Sciences",
+        "icon": "vidzeme-university-of-applied-sciences",
+        "description": "Professional Bachelor’s Degrees in Information Technologies",
+        "link": "https://va.lv/en"
+      },
+      "role": {
+        "title": "Qualification of Programming Engineer",
+        "description": "Computer Science degree with coursework spanning systems analysis, software engineering, IT project management, and emerging technologies including virtual reality and mobile development.",
+        "startDate": "2013-08-26T16:00:00.000Z",
+        "endDate": "2017-07-30T16:00:00.000Z",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "jQuery",
+          "Drupal",
+          "Java",
+          "PHP",
+          "C++",
+          "C#",
+          ".NET",
+          "Android Studio",
+          "Unity",
+          "SQL",
+          "Linux",
+          "Database Design",
+          "Algorithms",
+          "Cryptography"
+        ]
+      }
+    }
+  },
+  {
+    "type": "certification",
+    "data": {
+      "institution": {
+        "name": "Github Learn",
+        "description": "Online Learning Platform",
+        "link": "https://www.linkedin.com/learning/certificates/90e0453f8b0ddf8e89ec0761842930fb0eb356e3a59ab2f20f993c164bdc6395"
+      },
+      "role": {
+        "title": "Career Essentials in GitHub Copilot",
+        "description": "Certification demonstrating proficiency in using GitHub Copilot for AI-assisted software development and productivity enhancement.",
+        "startDate": "2026-01-25T16:00:00.000Z",
+        "endDate": "2026-01-25T16:00:00.000Z",
+        "skills": [
+          "AI Productivity",
+          "AI Software Development",
+          "Git",
+          "GitHub Copilot"
+        ]
+      }
+    }
+  },
+  {
+    "type": "certification",
+    "data": {
+      "institution": {
+        "name": "LinkedIn Learning",
+        "description": "Online Learning Platform",
+        "link": "https://www.linkedin.com/learning/certificates/9898adb17c909fc7acabb141d8c58d89987cddd1793ef714f13416a9a03e52b3"
+      },
+      "role": {
+        "title": "AI Pair Programming with GitHub Copilot",
+        "description": "Certification demonstrating proficiency in leveraging GitHub Copilot for AI-assisted pair programming, code generation and code refactoring.",
+        "startDate": "2026-01-22T16:00:00.000Z",
+        "endDate": "2026-01-22T16:00:00.000Z",
+        "skills": [
+          "AI Software Development",
+          "GitHub Copilot"
+        ]
+      }
+    }
+  },
+  {
+    "type": "certification",
+    "data": {
+      "institution": {
+        "name": "Scrum.org",
+        "description": "Professional Scrum Certifications",
+        "link": "https://www.scrum.org/certificates/617263"
+      },
+      "role": {
+        "title": "Professional Scrum Developer I (PSD I)",
+        "description": "Certification validates knowledge of the practices and techniques that support building complex software as a member of a Scrum Team and ability to apply that knowledge.",
+        "startDate": "2021-01-04T16:00:00.000Z",
+        "endDate": "2021-01-04T16:00:00.000Z",
+        "skills": [
+          "Agile (Scrum)"
+        ]
+      }
+    }
+  },
+  {
+    "type": "certification",
+    "data": {
+      "institution": {
+        "name": "Google Analytics Academy",
+        "description": "Online Learning Platform",
+        "link": "https://skillshop.docebosaas.com/learn/courses/14810/google-analytics-certification"
+      },
+      "role": {
+        "title": "Google Analytics Certification",
+        "description": "Certification demonstrating proficiency in Google Analytics for data analysis and reporting.",
+        "startDate": "2020-04-06T16:00:00.000Z",
+        "endDate": "2020-04-06T16:00:00.000Z",
+        "skills": [
+          "Google Analytics"
+        ]
+      }
+    }
+  },
+  {
+    "type": "certification",
+    "data": {
+      "institution": {
+        "name": "Coursera",
+        "description": "Online Learning Platform",
+        "link": "https://www.coursera.org/account/accomplishments/verify/FQSJGVR4FK8U"
+      },
+      "role": {
+        "title": "Agile with Atlassian Jira",
+        "description": "Completed coursework on Agile methodologies and Jira software for project management.",
+        "startDate": "2019-12-29T16:00:00.000Z",
+        "endDate": "2019-12-29T16:00:00.000Z",
+        "skills": [
+          "Jira",
+          "Agile (Scrum)",
+          "Agile (Kanban)"
+        ]
+      }
+    }
+  },
+  {
+    "type": "project",
+    "data": {
+      "institution": {
+        "name": "Personal Website V1",
+        "icon": "personal",
+        "description": "Portfolio and blog website built with Vue.js and hosted on GitHub Pages",
+        "link": "https://aleksandrs94.github.io/"
+      },
+      "role": {
+        "title": "Full Stack Developer",
+        "description": "Portfolio and blog website built with Vue.js and hosted on GitHub Pages. Implements responsive design principles to ensure optimal viewing across devices.",
+        "startDate": "2020-03-14T16:00:00.000Z",
+        "endDate": "2020-03-30T16:00:00.000Z",
+        "skills": [
+          "HTML",
+          "Sass",
+          "JavaScript",
+          "Vue",
+          "PWA",
+          "Git",
+          "CI/CD",
+          "Docker",
+          "Nginx"
+        ]
+      }
+    }
+  },
+  {
+    "type": "project",
+    "data": {
+      "institution": {
+        "name": "Personal Website V2",
+        "icon": "personal",
+        "description": "Portfolio and blog website built with Vue.js and hosted on GitHub Pages",
+        "link": "https://aleksandrs94.github.io/"
+      },
+      "role": {
+        "title": "Prompt Engineer",
+        "description": "Leveraged prompt engineering techniques to enhance content interaction on a personal website. Developed dynamic filtering and sorting features to improve content discoverability and user experience.",
+        "startDate": "2026-01-01T16:00:00.000Z",
+        "skills": [
+          "HTML",
+          "Sass",
+          "JavaScript",
+          "Vue",
+          "Vuex",
+          "PWA",
+          "Git",
+          "GitHub Copilot",
+          "CI/CD",
+          "Docker",
+          "Sentry",
+          "AI Software Development"
+        ]
+      }
+    }
+  }
+]
