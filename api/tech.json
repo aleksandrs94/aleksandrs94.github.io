@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "HTML5",
     "icon": "html",
     "color": "#E34F26",
@@ -7,6 +8,7 @@
     "link": "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"
   },
   {
+    "id": 2,
     "name": "CSS3",
     "icon": "css",
     "color": "#1572B6",
@@ -15,6 +17,7 @@
 
   },
   {
+    "id": 3,
     "name": "Sass",
     "icon": "sass",
     "color": "#CC6699",
@@ -22,6 +25,7 @@
     "link": "https://sass-lang.com/"
   },
   {
+    "id": 4,
     "name": "JavaScript",
     "icon": "javascript",
     "color": "#F7DF1E",
@@ -29,6 +33,7 @@
     "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
   },
   {
+    "id": 5,
     "name": "TypeScript",
     "icon": "typescript",
     "color": "#3178C6",
@@ -36,6 +41,7 @@
     "link": "https://www.typescriptlang.org/"
   },
   {
+    "id": 6,
     "name": "Angular",
     "icon": "angular",
     "color": "#DD0031",
@@ -43,6 +49,7 @@
     "link": "https://angular.io/"
   },
   {
+    "id": 7,
     "name": "RxJS",
     "icon": "rxjs",
     "color": "#B7178C",
@@ -50,6 +57,7 @@
     "link": "https://rxjs.dev/"
   },
   {
+    "id": 8,
     "name": "Vue",
     "icon": "vue",
     "color": "#42B883",
@@ -57,6 +65,7 @@
     "link": "https://vuejs.org/"
   },
   {
+    "id": 9,
     "name": "React",
     "icon": "react",
     "color": "#61DAFB",
@@ -64,6 +73,7 @@
     "link": "https://reactjs.org/"
   },
   {
+    "id": 10,
     "name": "Redux",
     "icon": "redux",
     "color": "#764ABC",
@@ -71,6 +81,7 @@
     "link": "https://redux.js.org/"
   },
   {
+    "id": 11,
     "name": "jQuery",
     "icon": "jquery",
     "color": "#0769AD",
@@ -78,6 +89,7 @@
     "link": "https://jquery.com/"
   },
   {
+    "id": 12,
     "name": "Node.js",
     "icon": "node-js",
     "color": "#339933",
@@ -85,6 +97,7 @@
     "link": "https://nodejs.org/"
   },
   {
+    "id": 13,
     "name": "GraphQL",
     "icon": "graphql",
     "color": "#E10098",
@@ -92,6 +105,7 @@
     "link": "https://graphql.org/"
   },
   {
+    "id": 14,
     "name": "Redis",
     "icon": "redis",
     "color": "#DC382D",
@@ -99,6 +113,7 @@
     "link": "https://redis.io/"
   },
   {
+    "id" : 15,
     "name": "Jest",
     "icon": "jest",
     "color": "#C21325",
@@ -106,6 +121,7 @@
     "link": "https://jestjs.io/"
   },
   {
+    "id": 16,
     "name": "Playwright",
     "icon": "playwright",
     "color": "#45ba4b",
@@ -113,6 +129,7 @@
     "link": "https://playwright.dev/"
   },
   {
+    "id": 17,
     "name": "Git",
     "icon": "git",
     "color": "#F05032",
@@ -120,13 +137,15 @@
     "link": "https://git-scm.com/"
   },
   {
+    "id": 18,
     "name": "Docker",
     "icon": "docker",
     "color": "#2496ED",
     "description": "Platform for developing, shipping, and running applications in containers",
     "link": "https://www.docker.com/"
   },
-  {
+  { 
+    "id": 19,
     "name": "Nginx",
     "icon": "nginx",
     "color": "#009639",
