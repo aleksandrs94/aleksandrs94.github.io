@@ -92,7 +92,7 @@
     "id": 12,
     "name": "Node.js",
     "icon": "node-js",
-    "color": "#339933",
+    "color": "#66cc33",
     "description": "JavaScript runtime built on Chrome's V8 JavaScript engine, used for server-side development",
     "link": "https://nodejs.org/"
   },

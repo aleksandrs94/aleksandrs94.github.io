@@ -6,7 +6,7 @@
       "institution": {
         "name": "Swisscom",
         "icon": "swisscom",
-        "description": "Major telecommunication provider in Switzerland",
+        "description": "Switzerland’s leading company in communications, IT, and entertainment. Swisscom is among the most innovative and sustainable organizations in the country, delivering digital services to both private and business customers while actively shaping the digital future.",
         "link": "https://www.swisscom.ch/en/residential.html"
       },
       "role": {
@@ -50,7 +50,7 @@
       "institution": {
         "name": "Tet",
         "icon": "tet",
-        "description": "Telecommunication, entertainment, internet and electricity service provider",
+        "description": "Latvia’s leading telecommunications and technology company. Tet provides secure and stable digital services including internet, TV, IT, and business solutions to homes and enterprises while driving innovation and shaping the country’s digital infrastructure.",
         "link": "https://www.tet.lv"
       },
       "role": {
@@ -99,7 +99,7 @@
       "institution": {
         "name": "Latvian Railway",
         "icon": "latvian-railway",
-        "description": "Information and Technology Centre | Department of Development",
+        "description": "National railway company responsible for managing and developing the country’s public rail infrastructure and transportation services, providing both passenger and cargo operations as well as logistics, maintenance and related support services in line with modernisation and sustainability goals.",
         "link": "https://ldz.lv/en"
       },
       "role": {
@@ -138,7 +138,7 @@
       "institution": {
         "name": "Vidzeme University of Applied Sciences",
         "icon": "vidzeme-university-of-applied-sciences",
-        "description": "Knowledge and Technology Centre",
+        "description": "Vidzeme University of Applied Sciences is a leading institution in Latvia offering professional bachelor’s degrees in information technologies, business, and tourism. The university focuses on practical education and research, preparing students for successful careers in their chosen fields while fostering innovation and regional development.",
         "link": "https://va.lv/en"
       },
       "role": {
@@ -169,7 +169,7 @@
       "institution": {
         "name": "Wunder",
         "icon": "wunder",
-        "description": "International Web Service Provider",
+        "description": "International Web Service Provider. Digital experts, especially in the fields of media, education, transportation, cities, natural resources, and manufacturing. Wunder’s solutions serve millions of people around the world. Most of the clients are prominent Finnish companies and organizations from both the private and public sectors.",
         "link": "https://wunder.io"
       },
       "role": {
