@@ -38,7 +38,8 @@
       "project": {
         "name": "My Swisscom Business",
         "icon": "my-swisscom-business",
-        "description": "Contributed to building B2B portal for enterprise customers",
+        "introduction": "Contributed to building B2B portal for enterprise customers",
+        "description": "My Swisscom Business provides a centralized, secure management environment for enterprises. It offers a single cockpit to manage employee workplaces, applications, devices, and data, while also enabling seamless administration of telecommunications, IT, and business services. With a user-friendly online portal, businesses can monitor usage, manage SIMs and billing, configure communication services, and access digital solutions—empowering organizations to streamline operations, enhance security, and drive innovation and growth.",
         "link": "https://www.swisscom.ch/en/business/myswisscombusiness.html"
       }
     }
@@ -87,7 +88,8 @@
       "project": {
         "name": "Tet TV+",
         "icon": "tet-tv-plus",
-        "description": "Built leading OTT streaming service in Latvia",
+        "introduction": "Led development of leading OTT streaming service in Latvia",
+        "description": "Tet TV+ is a leading Latvian OTT entertainment platform by Tet that offers live TV, catch-up archives, video-on-demand movies and series, including HBO content. Available across multiple devices, it enables users to flexibly manage and customize their TV packages. Built as an interactive television (ITV) solution, Tet TV+ delivers high-quality streaming, cross-device continuity, and personalized content recommendations using advanced technologies.",
         "link": "https://www.tet.plus/"
       }
     }
@@ -157,7 +159,8 @@
       "project": {
         "name": "Kameja",
         "icon": "kameja",
-        "description": "Maintain and improve e-commerce website",
+        "introduction": "Contributed to development of e-commerce website for local retailer",
+        "description": "Kameja.lv is the e-commerce platform of Kameja, a Latvian retail chain specializing in fabrics, home textiles, and handicraft materials. Based in Valmiera with physical stores across Latvia, the platform offers a wide product range through a fully responsive website, delivering a seamless shopping experience across devices.",
         "link": "http://kameja.lv"
       }
     }
@@ -190,7 +193,8 @@
       "project": {
         "name": "Aquavilla",
         "icon": "aquavilla",
-        "description": "Enhance business card website for Swedish company",
+        "introduction": "Enhanced business card website for Swedish company",
+        "description": "AquaVilla is a Swedish company specializing in the design and construction of sustainable, energy-efficient floating homes and marine communities for permanent living. Through Aqua Floating Group AB, it also develops marine infrastructure such as concrete pontoons, breakwaters, and piers.",
         "link": "http://aquavilla.se"
       }
     }
@@ -374,7 +378,7 @@
       "institution": {
         "name": "Personal Website V2",
         "icon": "personal",
-        "description": "Portfolio and blog website built with Vue.js and hosted on GitHub Pages",
+        "description": "Portfolio and blog website dedicated to showcase professional experience and share insights on software development, technology trends, and personal projects. Built with Vue.js and hosted on GitHub Pages, the website features a clean, modern design with a focus on usability and accessibility.",
         "link": "https://aleksandrs94.github.io/"
       },
       "role": {
