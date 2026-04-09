@@ -5,8 +5,9 @@
     "data": {
       "institution": {
         "name": "Swisscom",
+        "fullName": "Swisscom AG",
         "icon": "swisscom",
-        "description": "Switzerland’s leading company in communications, IT, and entertainment. Swisscom is among the most innovative and sustainable organizations in the country, delivering digital services to both private and business customers while actively shaping the digital future.",
+        "description": "Swisscom AG is Switzerland’s leading IT&T (Information Technology and Telecommunication) company. It is among the most innovative and sustainable organizations in the country, delivering digital services to both private and business customers while actively shaping the digital future.",
         "link": "https://www.swisscom.ch/en/residential.html"
       },
       "role": {
@@ -38,7 +39,7 @@
       "project": {
         "name": "My Swisscom Business",
         "icon": "my-swisscom-business",
-        "introduction": "Contributed to building B2B portal for enterprise customers",
+        "introduction": "Contributed to building a centralized, secured B2B portal for enterprise customers",
         "description": "My Swisscom Business provides a centralized, secure management environment for enterprises. It offers a single cockpit to manage employee workplaces, applications, devices, and data, while also enabling seamless administration of telecommunications, IT, and business services. With a user-friendly online portal, businesses can monitor usage, manage SIMs and billing, configure communication services, and access digital solutions—empowering organizations to streamline operations, enhance security, and drive innovation and growth.",
         "link": "https://www.swisscom.ch/en/business/myswisscombusiness.html"
       }
@@ -50,8 +51,9 @@
     "data": {
       "institution": {
         "name": "Tet",
+        "fullName": "SIA Tet",
         "icon": "tet",
-        "description": "Latvia’s leading telecommunications and technology company. Tet provides secure and stable digital services including internet, TV, IT, and business solutions to homes and enterprises while driving innovation and shaping the country’s digital infrastructure.",
+        "description": "SIA Tet is the largest state-owned IT&T (Information Technology and Telecommunication) company in Latvia. Tet provides secure and stable digital services including internet, television, electricity, IT and business solutions to homes and enterprises while driving innovation and shaping the country’s digital infrastructure.",
         "link": "https://www.tet.lv"
       },
       "role": {
@@ -88,8 +90,8 @@
       "project": {
         "name": "Tet TV+",
         "icon": "tet-tv-plus",
-        "introduction": "Led development of leading OTT streaming service in Latvia",
-        "description": "Tet TV+ is a leading Latvian OTT entertainment platform by Tet that offers live TV, catch-up archives, video-on-demand movies and series, including HBO content. Available across multiple devices, it enables users to flexibly manage and customize their TV packages. Built as an interactive television (ITV) solution, Tet TV+ delivers high-quality streaming, cross-device continuity, and personalized content recommendations using advanced technologies.",
+        "introduction": "Led development of one of Latvia’s leading OTT streaming and entertainment platforms",
+        "description": "Tet TV+ is one of Latvia’s leading OTT streaming and entertainment platforms. It brings together live TV, on-demand movies and series, catch-up archives, and premium content like HBO in a single experience. The platform is designed to provide high-quality streaming across multiple devices, with personalized recommendations and seamless viewing continuity. Subscribers gain full control to personalize their TV packages and pay only for what they choose to watch.",
         "link": "https://www.tet.plus/"
       }
     }
@@ -100,8 +102,9 @@
     "data": {
       "institution": {
         "name": "Latvian Railway",
+        "fullName": "SJSC Latvian Railway",
         "icon": "latvian-railway",
-        "description": "National railway company responsible for managing and developing the country’s public rail infrastructure and transportation services, providing both passenger and cargo operations as well as logistics, maintenance and related support services in line with modernisation and sustainability goals.",
+        "description": "SJSC Latvian Railway is the national railway company responsible for managing and developing the country’s public rail infrastructure and transportation services, providing both passenger and cargo operations as well as logistics, maintenance and related support services in line with modernisation and sustainability goals.",
         "link": "https://ldz.lv/en"
       },
       "role": {
@@ -138,7 +141,8 @@
     "type": "job",
     "data": {
       "institution": {
-        "name": "Vidzeme University of Applied Sciences",
+        "name": "Vidzeme University",
+        "fullName": "Vidzeme University of Applied Sciences",
         "icon": "vidzeme-university-of-applied-sciences",
         "description": "Vidzeme University of Applied Sciences is a leading institution in Latvia offering professional bachelor’s degrees in information technologies, business, and tourism. The university focuses on practical education and research, preparing students for successful careers in their chosen fields while fostering innovation and regional development.",
         "link": "https://va.lv/en"
@@ -158,9 +162,10 @@
       },
       "project": {
         "name": "Kameja",
+        "fullName": "SIA Kameja",
         "icon": "kameja",
         "introduction": "Contributed to development of e-commerce website for local retailer",
-        "description": "Kameja.lv is the e-commerce platform of Kameja, a Latvian retail chain specializing in fabrics, home textiles, and handicraft materials. Based in Valmiera with physical stores across Latvia, the platform offers a wide product range through a fully responsive website, delivering a seamless shopping experience across devices.",
+        "description": "Kameja.lv is the e-commerce platform of SIA Kameja, a Latvian retail chain specializing in fabrics, home textiles, and handicraft materials. Based in Valmiera with physical stores across Latvia, the platform offers a wide product range through a fully responsive website, delivering a seamless shopping experience across devices.",
         "link": "http://kameja.lv"
       }
     }
@@ -171,8 +176,9 @@
     "data": {
       "institution": {
         "name": "Wunder",
+        "fullName": "Wunder Finland Oy",
         "icon": "wunder",
-        "description": "International Web Service Provider. Digital experts, especially in the fields of media, education, transportation, cities, natural resources, and manufacturing. Wunder’s solutions serve millions of people around the world. Most of the clients are prominent Finnish companies and organizations from both the private and public sectors.",
+        "description": "Wunder Finland Oy is an international web service provider. Digital experts, especially in the fields of media, education, transportation, cities, natural resources, and manufacturing. Wunder’s solutions serve millions of people around the world. Most of the clients are prominent Finnish companies and organizations from both the private and public sectors.",
         "link": "https://wunder.io"
       },
       "role": {
@@ -192,9 +198,10 @@
       },
       "project": {
         "name": "Aquavilla",
+        "fullName": "AquaVilla AB",
         "icon": "aquavilla",
         "introduction": "Enhanced business card website for Swedish company",
-        "description": "AquaVilla is a Swedish company specializing in the design and construction of sustainable, energy-efficient floating homes and marine communities for permanent living. Through Aqua Floating Group AB, it also develops marine infrastructure such as concrete pontoons, breakwaters, and piers.",
+        "description": "AquaVilla AB is a Swedish company specializing in the design and construction of sustainable, energy-efficient floating homes and marine communities for permanent living. Through Aqua Floating Group AB, it also develops marine infrastructure such as concrete pontoons, breakwaters, and piers.",
         "link": "http://aquavilla.se"
       }
     }
@@ -204,7 +211,8 @@
     "type": "education",
     "data": {
       "institution": {
-        "name": "Vidzeme University of Applied Sciences",
+        "name": "Vidzeme University",
+        "fullName": "Vidzeme University of Applied Sciences",
         "icon": "vidzeme-university-of-applied-sciences",
         "description": "Professional Bachelor’s Degrees in Information Technologies",
         "link": "https://va.lv/en"
