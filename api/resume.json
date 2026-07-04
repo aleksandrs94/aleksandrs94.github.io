@@ -4,6 +4,45 @@
     "type": "job",
     "data": {
       "institution": {
+        "name": "Rohde & Schwarz",
+        "fullName": "Rohde & Schwarz GmbH & Co. KG",
+        "icon": "rohde_schwarz",
+        "description": "Rohde & Schwarz GmbH & Co. KG is a global German technology group specializing in electronic test and measurement, broadcast and media solutions, cybersecurity, and radiocommunication. The company partners with industry, aerospace, defense, and government organizations to help build a safer and more connected world.",
+        "link": "https://www.rohde-schwarz.com/sg/home_48230.html"
+      },
+      "role": {
+        "title": "Senior Software Engineer",
+        "description": "Designed and delivered high-performance, real-time user interfaces that transformed complex hardware interactions into intuitive workflows. Built and maintained a reusable component library adopted across multiple product teams, reducing duplication and accelerating delivery. Improved runtime performance and test coverage, integrated real-time device communication channels, and established CI/CD quality gates. Collaborated closely with product and engineering teams to deliver reliable, maintainable, and scalable user interfaces.",
+        "startDate": "2026-05-11T16:00:00.000Z",
+        "skills": [
+          "HTML",
+          "Sass",
+          "TypeScript",
+          "Angular",
+          "RxJS",
+          "Redux",
+          "Jest",
+          "Playwright",
+          "Micro Frontend",
+          "CI/CD",
+          "Storybook",
+          "SonarQube",
+          "Git",
+          "GitHub Copilot",
+          "Cursor",
+          "AI Software Development",
+          "Teamwork",
+          "Agile",
+          "Jira"
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "type": "job",
+    "data": {
+      "institution": {
         "name": "Swisscom",
         "fullName": "Swisscom AG",
         "icon": "swisscom",
@@ -46,7 +85,7 @@
     }
   },
   {
-    "id": 2,
+    "id": 3,
     "type": "job",
     "data": {
       "institution": {
@@ -97,7 +136,7 @@
     }
   },
   {
-    "id": 3,
+    "id": 4,
     "type": "job",
     "data": {
       "institution": {
@@ -140,7 +179,7 @@
     }
   },
   {
-    "id": 4,
+    "id": 5,
     "type": "job",
     "data": {
       "institution": {
@@ -156,12 +195,7 @@
         "description": "Integrate third party API's like Google Maps, Facebook, Instagram, Omniva, DPD and others to improve customer satisfaction. Delivered fully responsive design for consistent shopping experience across all devices.",
         "startDate": "2016-09-30T16:00:00.000Z",
         "endDate": "2017-01-30T16:00:00.000Z",
-        "skills": [
-          "HTML",
-          "CSS",
-          "JavaScript",
-          "jQuery"
-        ]
+        "skills": ["HTML", "CSS", "JavaScript", "jQuery"]
       },
       "project": {
         "name": "Kameja",
@@ -174,7 +208,7 @@
     }
   },
   {
-    "id": 5,
+    "id": 6,
     "type": "job",
     "data": {
       "institution": {
@@ -210,7 +244,7 @@
     }
   },
   {
-    "id": 6,
+    "id": 7,
     "type": "education",
     "data": {
       "institution": {
@@ -248,7 +282,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "type": "certification",
     "data": {
       "institution": {
@@ -271,7 +305,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "type": "certification",
     "data": {
       "institution": {
@@ -284,15 +318,12 @@
         "description": "Certification demonstrating proficiency in leveraging GitHub Copilot for AI-assisted pair programming, code generation and code refactoring.",
         "startDate": "2026-01-22T16:00:00.000Z",
         "endDate": "2026-01-22T16:00:00.000Z",
-        "skills": [
-          "AI Software Development",
-          "GitHub Copilot"
-        ]
+        "skills": ["AI Software Development", "GitHub Copilot"]
       }
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "type": "certification",
     "data": {
       "institution": {
@@ -305,14 +336,12 @@
         "description": "Certification validates knowledge of the practices and techniques that support building complex software as a member of a Scrum Team and ability to apply that knowledge.",
         "startDate": "2021-01-04T16:00:00.000Z",
         "endDate": "2021-01-04T16:00:00.000Z",
-        "skills": [
-          "Agile (Scrum)"
-        ]
+        "skills": ["Agile (Scrum)"]
       }
     }
   },
   {
-    "id": 10,
+    "id": 11,
     "type": "certification",
     "data": {
       "institution": {
@@ -325,14 +354,12 @@
         "description": "Certification demonstrating proficiency in Google Analytics for data analysis and reporting.",
         "startDate": "2020-04-06T16:00:00.000Z",
         "endDate": "2020-04-06T16:00:00.000Z",
-        "skills": [
-          "Google Analytics"
-        ]
+        "skills": ["Google Analytics"]
       }
     }
   },
   {
-    "id": 11,
+    "id": 12,
     "type": "certification",
     "data": {
       "institution": {
@@ -345,16 +372,12 @@
         "description": "Completed coursework on Agile methodologies and Jira software for project management.",
         "startDate": "2019-12-29T16:00:00.000Z",
         "endDate": "2019-12-29T16:00:00.000Z",
-        "skills": [
-          "Jira",
-          "Agile (Scrum)",
-          "Agile (Kanban)"
-        ]
+        "skills": ["Jira", "Agile (Scrum)", "Agile (Kanban)"]
       }
     }
   },
   {
-    "id": 12,
+    "id": 13,
     "type": "project",
     "data": {
       "institution": {
@@ -383,7 +406,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 14,
     "type": "project",
     "data": {
       "institution": {
@@ -396,6 +419,7 @@
         "title": "Prompt Engineer",
         "description": "Leveraged prompt engineering techniques to enhance content interaction on a personal website. Developed dynamic filtering and sorting features to improve content discoverability and user experience.",
         "startDate": "2026-01-01T16:00:00.000Z",
+        "endDate": "2026-04-30T16:00:00.000Z",
         "skills": [
           "HTML",
           "Sass",
